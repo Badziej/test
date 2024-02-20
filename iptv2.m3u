@@ -1,0 +1,681 @@
+
+#EXTINF:-1 tvg-id="tvp.pl" tvg-name="|PL| TVP HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP.png" group-title="EU| POLSKA HD",|PL| TVP HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3353
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="|PL| TVP 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP1.png" group-title="EU| POLSKA HD",|PL| TVP 1 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3352
+#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="|PL| TVP 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP2.png" group-title="EU| POLSKA HD",|PL| TVP 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3351
+#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="|PL| TVP 3" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVP3.png" group-title="EU| POLSKA HD",|PL| TVP 3
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3350
+#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="|PL| TVP SERIALE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPSERIALE.png" group-title="EU| POLSKA HD",|PL| TVP SERIALE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3302
+#EXTINF:-1 tvg-id="" tvg-name="|PL| TVP Kobieta HD" tvg-logo="" group-title="EU| POLSKA HD",|PL| TVP Kobieta HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574445
+#EXTINF:-1 tvg-id="tvtrwam.pl" tvg-name="|PL|  TV TRWAM" tvg-logo="http://103.161.34.240:81/logos/POLSKA/TVTRWAM.png" group-title="EU| POLSKA HD",|PL|  TV TRWAM
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/497593
+#EXTINF:-1 tvg-id="tv4.pl" tvg-name="|PL| TV4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TV4HD.png" group-title="EU| POLSKA HD",|PL| TV4 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3349
+#EXTINF:-1 tvg-id="tv6.pl" tvg-name="|PL| TV6" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TV6.png" group-title="EU| POLSKA HD",|PL| TV6
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3347
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="|PL| iTVN" tvg-logo="http://103.161.34.240:81/logos/POLSKA/iTVN.png" group-title="EU| POLSKA HD",|PL| iTVN
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/429574
+#EXTINF:-1 tvg-id="" tvg-name="|PL| iTVN Extra" tvg-logo="" group-title="EU| POLSKA HD",|PL| iTVN Extra
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574446
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="|PL| POLSAT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSAT.png" group-title="EU| POLSKA HD",|PL| POLSAT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3345
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Polsat 1" tvg-logo="" group-title="EU| POLSKA HD",|PL| Polsat 1
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574447
+#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="|PL| POLSAT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSAT2.png" group-title="EU| POLSKA HD",|PL| POLSAT 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3344
+#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="|PL| POLSAT FILM HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATFILMHD.png" group-title="EU| POLSKA HD",|PL| POLSAT FILM HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3230
+#EXTINF:-1 tvg-id="polsatseriale.pl" tvg-name="|PL| POLSAT SERIALE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSERIALE.png" group-title="EU| POLSKA HD",|PL| POLSAT SERIALE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3300
+#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="|PL| POLSAT PLAY HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/POLSATPLAY.png" group-title="EU| POLSKA HD",|PL| POLSAT PLAY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3244
+#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="|PL| POLSAT CAFE HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/POLSATCAFE.png" group-title="EU| POLSKA HD",|PL| POLSAT CAFE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3245
+#EXTINF:-1 tvg-id="polsatrodzina.pl" tvg-name="|PL| POLSAT RODZINA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATRODZINA.png" group-title="EU| POLSKA HD",|PL| POLSAT RODZINA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3336
+#EXTINF:-1 tvg-id="superstacja.pl" tvg-name="|PL| SUPER POLSAT" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SUPERPOLSAT.png" group-title="EU| POLSKA HD",|PL| SUPER POLSAT
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3343
+#EXTINF:-1 tvg-id="antenatv.pl" tvg-name="|PL| ANTENA SD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/antenasd.png" group-title="EU| POLSKA HD",|PL| ANTENA SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500998
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="|PL| TVN HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN.png" group-title="EU| POLSKA HD",|PL| TVN HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3342
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="|PL| TVN 7 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN7.png" group-title="EU| POLSKA HD",|PL| TVN 7 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3341
+#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="|PL| TVN FABULA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVNFABULA.png" group-title="EU| POLSKA HD",|PL| TVN FABULA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3293
+#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="|PL| TVN TURBO HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TVNTURBO.png" group-title="EU| POLSKA HD",|PL| TVN TURBO HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3292
+#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="|PL| TVN STYLE HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TVNSTYLEHD.png" group-title="EU| POLSKA HD",|PL| TVN STYLE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3238
+#EXTINF:-1 tvg-id="ttv.pl" tvg-name="|PL| TTV HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TTV.png" group-title="EU| POLSKA HD",|PL| TTV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3339
+#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="|PL| TV PULS HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPULS.png" group-title="EU| POLSKA HD",|PL| TV PULS HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3338
+#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="|PL| PULS 2" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PULS2.png" group-title="EU| POLSKA HD",|PL| PULS 2
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3280
+#EXTINF:-1 tvg-id="tvc.pl" tvg-name="|PL| TVC SD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/tvcsd.png" group-title="EU| POLSKA HD",|PL| TVC SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500996
+#EXTINF:-1 tvg-id="biznes24hd.pl" tvg-name="|PL| BIZNES24 HD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/biznes24hd.png" group-title="EU| POLSKA HD",|PL| BIZNES24 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500993
+#EXTINF:-1 tvg-id="tvs.pl" tvg-name="|PL| TVS" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVS.png" group-title="EU| POLSKA HD",|PL| TVS
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3340
+#EXTINF:-1 tvg-id="canalplus4kuhd.pl" tvg-name="|PL-8K| CANAL+ 4K" tvg-logo="http://178.211.143.40:81/logos/2/CANALPLUS.png" group-title="EU| POLSKA HD",|PL-8K| CANAL+ 4K
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/412797
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Canal+ 4K Ultra HD" tvg-logo="" group-title="EU| POLSKA HD",|PL| Canal+ 4K Ultra HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574444
+#EXTINF:-1 tvg-id="polonia1.pl" tvg-name="|PL| POLONIA 1" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLONIA1.png" group-title="EU| POLSKA HD",|PL| POLONIA 1
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3346
+#EXTINF:-1 tvg-id="canalplus1.pl" tvg-name="|PL| CANAL + 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/CANALPLUS1.png" group-title="EU| POLSKA HD",|PL| CANAL + 1 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3333
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="|PL| CANAL + PREMIUM HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALPREMIUM.png" group-title="EU| POLSKA HD",|PL| CANAL + PREMIUM HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/182410
+#EXTINF:-1 tvg-id="canalplusfamily.pl" tvg-name="|PL| CANAL + FAMILY HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALFAMILY.png" group-title="EU| POLSKA HD",|PL| CANAL + FAMILY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3332
+#EXTINF:-1 tvg-id="canalplusfilm.pl" tvg-name="|PL| CANAL + FILM HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALFILM.png" group-title="EU| POLSKA HD",|PL| CANAL + FILM HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3331
+#EXTINF:-1 tvg-id="canalplusseriale.pl" tvg-name="|PL| CANAL + SERIALE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSERIALE.png" group-title="EU| POLSKA HD",|PL| CANAL + SERIALE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3330
+#EXTINF:-1 tvg-id="canalpluspremium.pl" tvg-name="|PL| CANAL + NOW" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALOW.png" group-title="EU| POLSKA HD",|PL| CANAL + NOW
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/191127
+#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="|PL| FILMBOX EXTRA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXEXTRA.png" group-title="EU| POLSKA HD",|PL| FILMBOX EXTRA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3327
+#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="|PL| FILMBOX PREMIUM HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXPREMIUM.png" group-title="EU| POLSKA HD",|PL| FILMBOX PREMIUM HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3326
+#EXTINF:-1 tvg-id="filmboxaction.pl" tvg-name="|PL| FILMBOX ACTION" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXACTION.png" group-title="EU| POLSKA HD",|PL| FILMBOX ACTION
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3325
+#EXTINF:-1 tvg-id="filmboxarthouse.pl" tvg-name="|PL| FILMBOX FAMILY" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXFAMILY.png" group-title="EU| POLSKA HD",|PL| FILMBOX FAMILY
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3324
+#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="|PL| FILMBOX ARTHOUSE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXARTHOUSE.png" group-title="EU| POLSKA HD",|PL| FILMBOX ARTHOUSE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3323
+#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="|PL| CINEMAX HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CINEMAXHD.png" group-title="EU| POLSKA HD",|PL| CINEMAX HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3322
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="|PL| CINEMAX 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CINEMAX2.png" group-title="EU| POLSKA HD",|PL| CINEMAX 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3321
+#EXTINF:-1 tvg-id="hbo.pl" tvg-name="|PL| HBO HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HBOHD.png" group-title="EU| POLSKA HD",|PL| HBO HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3320
+#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="|PL| HBO 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HBO2.png" group-title="EU| POLSKA HD",|PL| HBO 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3319
+#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="|PL| HBO 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HBO3.png" group-title="EU| POLSKA HD",|PL| HBO 3 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3318
+#EXTINF:-1 tvg-id="VOD 205" tvg-name="|PL| VOD 205" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD205.png" group-title="EU| POLSKA HD",|PL| VOD 205
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3317
+#EXTINF:-1 tvg-id="VOD 206" tvg-name="|PL| VOD 206" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD206.png" group-title="EU| POLSKA HD",|PL| VOD 206
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3316
+#EXTINF:-1 tvg-id="VOD 207" tvg-name="|PL| VOD 207" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD207.png" group-title="EU| POLSKA HD",|PL| VOD 207
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3315
+#EXTINF:-1 tvg-id="VOD 208" tvg-name="|PL| VOD 208" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOD208.png" group-title="EU| POLSKA HD",|PL| VOD 208
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3314
+#EXTINF:-1 tvg-id="" tvg-name="|PL| HomeTV HD" tvg-logo="" group-title="EU| POLSKA HD",|PL| HomeTV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574440
+#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="|PL| KINO POLSKA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/KINOPOLSKA.png" group-title="EU| POLSKA HD",|PL| KINO POLSKA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/68563
+#EXTINF:-1 tvg-id="novelasplus.pl" tvg-name="|PL| NOVELAS+" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NOVELAS.png" group-title="EU| POLSKA HD",|PL| NOVELAS+
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/243955
+#EXTINF:-1 tvg-id="tvp.pl" tvg-name="|PL| TVP POLONIA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPPOLONIA.png" group-title="EU| POLSKA HD",|PL| TVP POLONIA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/68561
+#EXTINF:-1 tvg-id="foxcomedy.pl" tvg-name="|PL| FOX COMEDY HD" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/FOXCOMEDY.png" group-title="EU| POLSKA HD",|PL| FOX COMEDY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3311
+#EXTINF:-1 tvg-id="tvprozrywka.pl" tvg-name="|PL| TVP ROZRYWKA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPROZRYWKA.png" group-title="EU| POLSKA HD",|PL| TVP ROZRYWKA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3253
+#EXTINF:-1 tvg-id="domo.pl" tvg-name="|PL| CANAL+ DOMO HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALDOMO.png" group-title="EU| POLSKA HD",|PL| CANAL+ DOMO HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3288
+#EXTINF:-1 tvg-id="alekino.pl" tvg-name="|PL| ALE KINO HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ALEKINO.png" group-title="EU| POLSKA HD",|PL| ALE KINO HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3248
+#EXTINF:-1 tvg-id="canalpluskuchina.pl" tvg-name="|PL| CANAL + KUCHINIA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALKUCHINIA.png" group-title="EU| POLSKA HD",|PL| CANAL + KUCHINIA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/182407
+#EXTINF:-1 tvg-id="scifi.pl" tvg-name="|PL| SCIFI HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SCIFI.png" group-title="EU| POLSKA HD",|PL| SCIFI HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3305
+#EXTINF:-1 tvg-id="kinotv.pl" tvg-name="|PL| KINO TV HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/KINOTVHD.png" group-title="EU| POLSKA HD",|PL| KINO TV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3229
+#EXTINF:-1 tvg-id="tvpkultura.pl" tvg-name="|PL| TVP KULTURA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPKULTURA.png" group-title="EU| POLSKA HD",|PL| TVP KULTURA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3295
+#EXTINF:-1 tvg-id="davincilearning.pl" tvg-name="|PL| DA VINCI" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVNTURBO.png" group-title="EU| POLSKA HD",|PL| DA VINCI
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3290
+#EXTINF:-1 tvg-id="axn.pl" tvg-name="|PL| AXN HD" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/AXN.png" group-title="EU| POLSKA HD",|PL| AXN HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3310
+#EXTINF:-1 tvg-id="axnwhite.pl" tvg-name="|PL| AXN WHITE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/AXNWHITE.png" group-title="EU| POLSKA HD",|PL| AXN WHITE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3308
+#EXTINF:-1 tvg-id="axnblack.pl" tvg-name="|PL| AXN BLACK" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/AXNBLACK.png" group-title="EU| POLSKA HD",|PL| AXN BLACK
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3307
+#EXTINF:-1 tvg-id="axnspin.pl" tvg-name="|PL| AXN SPIN HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/AXNSPINHD.png" group-title="EU| POLSKA HD",|PL| AXN SPIN HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3306
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Top Movies Polska" tvg-logo="" group-title="EU| POLSKA HD",|PL| Top Movies Polska
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574443
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dizi HD" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dizi HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574442
+#EXTINF:-1 tvg-id="" tvg-name="|PL| FilMax" tvg-logo="" group-title="EU| POLSKA HD",|PL| FilMax
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574441
+#EXTINF:-1 tvg-id="TV OKAZJE" tvg-name="|PL| TV OKAZJE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVOKAZJE.png" group-title="EU| POLSKA HD",|PL| TV OKAZJE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3234
+#EXTINF:-1 tvg-id="eentertainment.pl" tvg-name="|PL| E! ENTERTAINMENT" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/E.png" group-title="EU| POLSKA HD",|PL| E! ENTERTAINMENT
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3303
+#EXTINF:-1 tvg-id="studiomed.pl" tvg-name="|PL| STUDIOMED TV HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STUDIOMEDTVHD.png" group-title="EU| POLSKA HD",|PL| STUDIOMED TV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3157
+#EXTINF:-1 tvg-id="amc.pl" tvg-name="|PL| AMC" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/AMC.png" group-title="EU| POLSKA HD",|PL| AMC
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3296
+#EXTINF:-1 tvg-id="fox.pl" tvg-name="|PL| FOX HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FOXHD.png" group-title="EU| POLSKA HD",|PL| FOX HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3312
+#EXTINF:-1 tvg-id="epicdramahd.pl" tvg-name="|PL| EPIC DRAMA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EPICDRAMAHD.png" group-title="EU| POLSKA HD",|PL| EPIC DRAMA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3232
+#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="|PL| CBS REALITY" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CBSREALITY.png" group-title="EU| POLSKA HD",|PL| CBS REALITY
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3233
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="|PL| 13 ULICA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/13ULICA.png" group-title="EU| POLSKA HD",|PL| 13 ULICA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3304
+#EXTINF:-1 tvg-id="novela.pl" tvg-name="|PL| NOVELA TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NOVELATV.png" group-title="EU| POLSKA HD",|PL| NOVELA TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3240
+#EXTINF:-1 tvg-id="tele5.pl" tvg-name="|PL| TELE 5" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TELE5.png" group-title="EU| POLSKA HD",|PL| TELE 5
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3348
+#EXTINF:-1 tvg-id="cbseuropa.pl" tvg-name="|PL| CBS EUROPA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CBSEUROPA.png" group-title="EU| POLSKA HD",|PL| CBS EUROPA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3301
+#EXTINF:-1 tvg-id="kuchniaplus.pl" tvg-name="|PL| KUCHNIA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALKUCHINIA.png" group-title="EU| POLSKA HD",|PL| KUCHNIA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3284
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="|PL| MOTOWIZJA TV HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MOTOWIZJATVHD.png" group-title="EU| POLSKA HD",|PL| MOTOWIZJA TV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3283
+#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="|PL| COMEDY CENTRAL HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/COMEDYCENTRAL.png" group-title="EU| POLSKA HD",|PL| COMEDY CENTRAL HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3299
+#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="|PL| COMEDY CENTRAL EXTRA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/COMEDYCENTRALEXTRA.png" group-title="EU| POLSKA HD",|PL| COMEDY CENTRAL EXTRA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/280183
+#EXTINF:-1 tvg-id="bbcfirst.pl" tvg-name="|PL| BBC FIRST HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCFIRSTHD.png" group-title="EU| POLSKA HD",|PL| BBC FIRST HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3273
+#EXTINF:-1 tvg-id="TBN Polska" tvg-name="|PL| TBN POLAND" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TBNPOLAND.png" group-title="EU| POLSKA HD",|PL| TBN POLAND
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/68564
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="|PL| WARNER HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TNTHD.png" group-title="EU| POLSKA HD",|PL| WARNER HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3231
+#EXTINF:-1 tvg-id="sundancetv.pl" tvg-name="|PL| SUNDANCE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SUNDANCEHD.png" group-title="EU| POLSKA HD",|PL| SUNDANCE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3239
+#EXTINF:-1 tvg-id="paramount.pl" tvg-name="|PL| PARAMOUNT CHANNEL HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PARAMOUNTCHANNEL.png" group-title="EU| POLSKA HD",|PL| PARAMOUNT CHANNEL HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3297
+#EXTINF:-1 tvg-id="romancetv.pl" tvg-name="|PL| ROMANCE TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ROMANCETV.png" group-title="EU| POLSKA HD",|PL| ROMANCE TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3278
+#EXTINF:-1 tvg-id="activefamily.pl" tvg-name="|PL| ACTIVE FAMILY" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ACTIVEFAMILY.png" group-title="EU| POLSKA HD",|PL| ACTIVE FAMILY
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3276
+#EXTINF:-1 tvg-id="superstacja.pl" tvg-name="|PL| SUPERSTACJA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SUPERSTACJA.png" group-title="EU| POLSKA HD",|PL| SUPERSTACJA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3162
+#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="|PL| TVP ABC" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/TVPABC.png" group-title="EU| POLSKA HD",|PL| TVP ABC
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3246
+#EXTINF:-1 tvg-id="babytv.pl" tvg-name="|PL| BABY TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BABYTV.png" group-title="EU| POLSKA HD",|PL| BABY TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3270
+#EXTINF:-1 tvg-id="jimjam.pl" tvg-name="|PL| POLSAT JIM JAM" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/JIMJAM.png" group-title="EU| POLSKA HD",|PL| POLSAT JIM JAM
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3269
+#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="|PL| BOOMERANG HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BOOMERANG.png" group-title="EU| POLSKA HD",|PL| BOOMERANG HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3268
+#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="|PL| CARTOON NETWORK HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CARTOONNETWORK.png" group-title="EU| POLSKA HD",|PL| CARTOON NETWORK HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3267
+#EXTINF:-1 tvg-id="disneychannel.pl" tvg-name="|PL| DISNEY XD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISNEYXD.png" group-title="EU| POLSKA HD",|PL| DISNEY XD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3266
+#EXTINF:-1 tvg-id="disneyjunior.pl" tvg-name="|PL| DISNEY JUNIOR" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISNEYJR.png" group-title="EU| POLSKA HD",|PL| DISNEY JUNIOR
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3265
+#EXTINF:-1 tvg-id="disneychannel.pl" tvg-name="|PL| DISNEY CHANNEL HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISNEYCH.png" group-title="EU| POLSKA HD",|PL| DISNEY CHANNEL HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3264
+#EXTINF:-1 tvg-id="nickjr.pl" tvg-name="|PL| NICK JR" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NICKJR.png" group-title="EU| POLSKA HD",|PL| NICK JR
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3263
+#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="|PL| NICKELODEON" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/nickelodeon.png" group-title="EU| POLSKA HD",|PL| NICKELODEON
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3262
+#EXTINF:-1 tvg-id="superstacja.pl" tvg-name="|PL| SUPERSTACJA HD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/superstacjahd.png" group-title="EU| POLSKA HD",|PL| SUPERSTACJA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500994
+#EXTINF:-1 tvg-id="metro.pl" tvg-name="|PL| METRO SD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/METRO.png" group-title="EU| POLSKA HD",|PL| METRO SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500989
+#EXTINF:-1 tvg-id="redcarpet.pl" tvg-name="|PL| RED CARPET TV HD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/redcarpettvhd.png" group-title="EU| POLSKA HD",|PL| RED CARPET TV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500984
+#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="|PL| NICK SD" tvg-logo="http://logo.ottc.pro:8080/logos/CANADA/NICK.png" group-title="EU| POLSKA HD",|PL| NICK SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500991
+#EXTINF:-1 tvg-id="nicktoons.pl" tvg-name="|PL| NICKTOONS HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NICKTOONS.png" group-title="EU| POLSKA HD",|PL| NICKTOONS HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3261
+#EXTINF:-1 tvg-id="teennick.pl" tvg-name="|PL| TEENNICK HD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/teennickhd.png" group-title="EU| POLSKA HD",|PL| TEENNICK HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500995
+#EXTINF:-1 tvg-id="4funkids.pl" tvg-name="|PL| 4FUN KIDS SD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/4funkids.png" group-title="EU| POLSKA HD",|PL| 4FUN KIDS SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500983
+#EXTINF:-1 tvg-id="teletoon.pl" tvg-name="|PL| TELETOON+ HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TELETOONHD.png" group-title="EU| POLSKA HD",|PL| TELETOON+ HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3260
+#EXTINF:-1 tvg-id="minimini.pl" tvg-name="|PL| MINIMINI HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MINIMINI.png" group-title="EU| POLSKA HD",|PL| MINIMINI HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3259
+#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="|PL| BBC CBEEBIES" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCCBEEBIES.png" group-title="EU| POLSKA HD",|PL| BBC CBEEBIES
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3258
+#EXTINF:-1 tvg-id="polsatgames.pl" tvg-name="|PL| POLSAT GAMES" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATGAMES.png" group-title="EU| POLSKA HD",|PL| POLSAT GAMES
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3257
+#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="|PL| MTV POLSKA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVPOLSKAHD.png" group-title="EU| POLSKA HD",|PL| MTV POLSKA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3250
+#EXTINF:-1 tvg-id="mtvlive.pl" tvg-name="|PL| MTV LIVE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVLIVE.png" group-title="EU| POLSKA HD",|PL| MTV LIVE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3255
+#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="|PL| MTV MUSIC" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVMUSIC.png" group-title="EU| POLSKA HD",|PL| MTV MUSIC
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3249
+#EXTINF:-1 tvg-id="musicboxpolska.pl" tvg-name="|PL| NICK MUSIC SD" tvg-logo="http://logo.ottc.pro:8080/logos/USACONTINE/NICKMUSIC.png" group-title="EU| POLSKA HD",|PL| NICK MUSIC SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500990
+#EXTINF:-1 tvg-id="mtv90s.pl" tvg-name="|PL| MTV 90S SD" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/MUSIC2/MTV90S.png" group-title="EU| POLSKA HD",|PL| MTV 90S SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500988
+#EXTINF:-1 tvg-id="nutatv.pl" tvg-name="|PL| NUTA TV SD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/nutatvsd.png" group-title="EU| POLSKA HD",|PL| NUTA TV SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500986
+#EXTINF:-1 tvg-id="mtv00s.pl" tvg-name="|PL| MTV 00S SD" tvg-logo="http://103.161.34.240:81/logos/MEXICO/MTV00S.png" group-title="EU| POLSKA HD",|PL| MTV 00S SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500985
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="|PL| MTV ROCKS" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/MTVROCKS.png" group-title="EU| POLSKA HD",|PL| MTV ROCKS
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3252
+#EXTINF:-1 tvg-id="powertv.pl" tvg-name="|PL| POWER TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POWERTV.png" group-title="EU| POLSKA HD",|PL| POWER TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3281
+#EXTINF:-1 tvg-id="4FUN TV" tvg-name="|PL| 4FUN GOLD HITS" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/4FUNGOLDHITS.png" group-title="EU| POLSKA HD",|PL| 4FUN GOLD HITS
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3205
+#EXTINF:-1 tvg-id="4fundance.pl" tvg-name="|PL| 4FUN DANCE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/4FUNDANCE.png" group-title="EU| POLSKA HD",|PL| 4FUN DANCE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3204
+#EXTINF:-1 tvg-id="4funtv.pl" tvg-name="|PL| 4FUN.TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/4FUNTV.png" group-title="EU| POLSKA HD",|PL| 4FUN.TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3226
+#EXTINF:-1 tvg-id="voxmusic.pl" tvg-name="|PL| VOX MUSIC TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VOXMUSICTV.png" group-title="EU| POLSKA HD",|PL| VOX MUSIC TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3224
+#EXTINF:-1 tvg-id="eskatvextra.pl" tvg-name="|PL| ESKA ROCK TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ESKAROCKTV.png" group-title="EU| POLSKA HD",|PL| ESKA ROCK TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3223
+#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="|PL| ESKA TV EXTRA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ESKATVEXTRA.png" group-title="EU| POLSKA HD",|PL| ESKA TV EXTRA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3222
+#EXTINF:-1 tvg-id="polsatmusic.pl" tvg-name="|PL| POLSAT MUSIC HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATMUSICHD.png" group-title="EU| POLSKA HD",|PL| POLSAT MUSIC HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3225
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="|PL| KINO POLSKA MUZYKA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/KINOPOLSKAMUZYKA.png" group-title="EU| POLSKA HD",|PL| KINO POLSKA MUZYKA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3251
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Clubbing TV HD" tvg-logo="" group-title="EU| POLSKA HD",|PL| Clubbing TV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574437
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Clubbing TV 2" tvg-logo="" group-title="EU| POLSKA HD",|PL| Clubbing TV 2
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574436
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Clubbing TV 3" tvg-logo="" group-title="EU| POLSKA HD",|PL| Clubbing TV 3
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574435
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance TV" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574434
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (Techno)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (Techno)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574433
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (Tech House)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (Tech House)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574432
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (House)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (House)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574431
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (EDM Mainstage)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (EDM Mainstage)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574430
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (Melodic Tech)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (Melodic Tech)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574429
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (Minimal/Deep Tech)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (Minimal/Deep Tech)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574428
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Dance Trippin TV (Deep House)" tvg-logo="" group-title="EU| POLSKA HD",|PL| Dance Trippin TV (Deep House)
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574427
+#EXTINF:-1 tvg-id="discopolomusic.pl" tvg-name="|PL| DISCO POLO MUSIC" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOPOLOMUSIC.png" group-title="EU| POLSKA HD",|PL| DISCO POLO MUSIC
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3206
+#EXTINF:-1 tvg-id="eskatvextra.pl" tvg-name="|PL| ESKA TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ESKATV.png" group-title="EU| POLSKA HD",|PL| ESKA TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3159
+#EXTINF:-1 tvg-id="zoomtv.pl" tvg-name="|PL| ZOOM TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ZOOMTV.png" group-title="EU| POLSKA HD",|PL| ZOOM TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3241
+#EXTINF:-1 tvg-id="nutatv.pl" tvg-name="|PL| NUTA TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NUTATV.png" group-title="EU| POLSKA HD",|PL| NUTA TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3282
+#EXTINF:-1 tvg-id="nowatv.pl" tvg-name="|PL| NOWA TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NOWATV.png" group-title="EU| POLSKA HD",|PL| NOWA TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3235
+#EXTINF:-1 tvg-id="metro.pl" tvg-name="|PL| METRO" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/METRO.png" group-title="EU| POLSKA HD",|PL| METRO
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3242
+#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="|PL| STOPKLATKA TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STOPKLATKATV.png" group-title="EU| POLSKA HD",|PL| STOPKLATKA TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3228
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="|PL| VH1" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/VH1.png" group-title="EU| POLSKA HD",|PL| VH1
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3254
+#EXTINF:-1 tvg-id="To!TV" tvg-name="|PL| TO!TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TOTV.png" group-title="EU| POLSKA HD",|PL| TO!TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3247
+#EXTINF:-1 tvg-id="polotv.pl" tvg-name="|PL| POLO TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLOTV.png" group-title="EU| POLSKA HD",|PL| POLO TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3243
+#EXTINF:-1 tvg-id="starstv.pl" tvg-name="|PL| STARS.TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/STARSTV.png" group-title="EU| POLSKA HD",|PL| STARS.TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3227
+#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="|PL| NAT GEO PEOPLE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NATGEOPEOPLE.png" group-title="EU| POLSKA HD",|PL| NAT GEO PEOPLE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3220
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="|PL| NATIONAL GEO" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NATGEO.png" group-title="EU| POLSKA HD",|PL| NATIONAL GEO
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3198
+#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="|PL| NAT GEO WILD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NATGEOWILD.png" group-title="EU| POLSKA HD",|PL| NAT GEO WILD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3202
+#EXTINF:-1 tvg-id="discoveryscience.pl" tvg-name="|PL| DISCOVERY SCIENCE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERYSCIENCE.png" group-title="EU| POLSKA HD",|PL| DISCOVERY SCIENCE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3210
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="|PL| DISCOVERY HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERY.png" group-title="EU| POLSKA HD",|PL| DISCOVERY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3209
+#EXTINF:-1 tvg-id="discoverylife.pl" tvg-name="|PL| DISCOVERY LIFE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERYLIFEHD.png" group-title="EU| POLSKA HD",|PL| DISCOVERY LIFE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3208
+#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="|PL| DISCOVERY HISTORIA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DISCOVERYHISTORIA.png" group-title="EU| POLSKA HD",|PL| DISCOVERY HISTORIA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3207
+#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="|PL| BBC LIFESTYLE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCLIFESTYLE.png" group-title="EU| POLSKA HD",|PL| BBC LIFESTYLE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3274
+#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="|PL| BBC EARTH HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/BBCEARTH.png" group-title="EU| POLSKA HD",|PL| BBC EARTH HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3213
+#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="|PL| BBC BRIT" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/BBCBRIT.png" group-title="EU| POLSKA HD",|PL| BBC BRIT
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3275
+#EXTINF:-1 tvg-id="tvpdokument.pl" tvg-name="|PL| TVP DOKUMENT HD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/tvpdokumenthd.png" group-title="EU| POLSKA HD",|PL| TVP DOKUMENT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500997
+#EXTINF:-1 tvg-id="polsatdoku.pl" tvg-name="|PL| POLSAT DOKU HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATDOKUHD.png" group-title="EU| POLSKA HD",|PL| POLSAT DOKU HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3211
+#EXTINF:-1 tvg-id="polsatviasatexpl.pl" tvg-name="|PL| POLSAT VIASAT EXPLORE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATVIASATEXPLORE.png" group-title="EU| POLSKA HD",|PL| POLSAT VIASAT EXPLORE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3203
+#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="|PL| POLSAT VIASAT HISTORY HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATVIASATHISTORY.png" group-title="EU| POLSKA HD",|PL| POLSAT VIASAT HISTORY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3200
+#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="|PL| POLSAT VIASAT NATURE HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATVIASATNATURE.png" group-title="EU| POLSKA HD",|PL| POLSAT VIASAT NATURE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3199
+#EXTINF:-1 tvg-id="planete.pl" tvg-name="|PL| PLANETE+ HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PLANETEHD.png" group-title="EU| POLSKA HD",|PL| PLANETE+ HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3218
+#EXTINF:-1 tvg-id="waterplanet.pl" tvg-name="|PL| WATER PLANET" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/WATERPLANET.png" group-title="EU| POLSKA HD",|PL| WATER PLANET
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3201
+#EXTINF:-1 tvg-id="animalplanet.pl" tvg-name="|PL| ANIMAL PLANET HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ANIMALPLANET.png" group-title="EU| POLSKA HD",|PL| ANIMAL PLANET HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3219
+#EXTINF:-1 tvg-id="travelchannel.pl" tvg-name="|PL| TRAVEL CHANNEL HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TRAVELCHANNEL.png" group-title="EU| POLSKA HD",|PL| TRAVEL CHANNEL HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3294
+#EXTINF:-1 tvg-id="adventure.pl" tvg-name="|PL| ADVENTURE HD" tvg-logo="http://logo.ottc.pro:8080/logos/POLSKA/ADVENTURE.png" group-title="EU| POLSKA HD",|PL| ADVENTURE HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3291
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="|PL| HGTV HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HGTV.png" group-title="EU| POLSKA HD",|PL| HGTV HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3236
+#EXTINF:-1 tvg-id="fokustv.pl" tvg-name="|PL| FOKUS TV" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FOKUSTV.png" group-title="EU| POLSKA HD",|PL| FOKUS TV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3285
+#EXTINF:-1 tvg-id="canalplusdokumenttv.pl" tvg-name="|PL| CANAL + DOKUMENT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALDOKUMENT.png" group-title="EU| POLSKA HD",|PL| CANAL + DOKUMENT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/182409
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="|PL| CANAL DISCOVERY HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALDISCOVERY.png" group-title="EU| POLSKA HD",|PL| CANAL DISCOVERY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3328
+#EXTINF:-1 tvg-id="foodnetwork.pl" tvg-name="|PL| FOOD NETWORK HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FOODNETWORK.png" group-title="EU| POLSKA HD",|PL| FOOD NETWORK HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3289
+#EXTINF:-1 tvg-id="cipolsat.pl" tvg-name="|PL| CI POLSAT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CIPOLSATHD.png" group-title="EU| POLSKA HD",|PL| CI POLSAT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3217
+#EXTINF:-1 tvg-id="history.pl" tvg-name="|PL| HISTORY HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HISTORY.png" group-title="EU| POLSKA HD",|PL| HISTORY HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3216
+#EXTINF:-1 tvg-id="investigationdiscovery.pl" tvg-name="|PL| ID HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/IDHD.png" group-title="EU| POLSKA HD",|PL| ID HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3215
+#EXTINF:-1 tvg-id="wp.pl" tvg-name="|PL| WP" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/WP.png" group-title="EU| POLSKA HD",|PL| WP
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3277
+#EXTINF:-1 tvg-id="DTX" tvg-name="|PL| DTX" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/DTX.png" group-title="EU| POLSKA HD",|PL| DTX
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3287
+#EXTINF:-1 tvg-id="tlc.pl" tvg-name="|PL| TLC HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TLC.png" group-title="EU| POLSKA HD",|PL| TLC HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3298
+#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="|PL| TVP HISTORIA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPHISTORIA.png" group-title="EU| POLSKA HD",|PL| TVP HISTORIA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3214
+#EXTINF:-1 tvg-id="history.pl" tvg-name="|PL| HISTORIA SD" tvg-logo="http://103.161.34.240:81/logos/POLSKA/historiasd.png" group-title="EU| POLSKA HD",|PL| HISTORIA SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/500992
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="|PL| H2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/HISTORY2.png" group-title="EU| POLSKA HD",|PL| H2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3212
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="|PL| POLSAT SPORT EXTRA HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTEXTRAHD.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT EXTRA HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3195
+#EXTINF:-1 tvg-id="" tvg-name="|PL| CRIME AND INVESTIGATION HD" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/CRIMEINVESTIGATION.png" group-title="EU| POLSKA HD",|PL| CRIME AND INVESTIGATION HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3197
+#EXTINF:-1 tvg-id="" tvg-name="|PL| InUltra UHD" tvg-logo="" group-title="EU| POLSKA HD",|PL| InUltra UHD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574439
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Ultra TV 4K" tvg-logo="" group-title="EU| POLSKA HD",|PL| Ultra TV 4K
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574438
+#EXTINF:-1 tvg-id="polsatsportfight.pl" tvg-name="|PL| POLSAT SPORT FIGHT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTIGHTHD.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT FIGHT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3194
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="|PL| CANAL+ SPORT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORTHD.png" group-title="EU| POLSKA HD",|PL| CANAL+ SPORT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3193
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="|PL| CANAL+ SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT2.png" group-title="EU| POLSKA HD",|PL| CANAL+ SPORT 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3192
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="|PL| CANAL+ SPORT 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT3.png" group-title="EU| POLSKA HD",|PL| CANAL+ SPORT 3 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3191
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="|PL| CANAL+ SPORT 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/CANALSPORT4.png" group-title="EU| POLSKA HD",|PL| CANAL+ SPORT 4 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3190
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="|PL| CANAL+ SPORT5" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/NSPORT.png" group-title="EU| POLSKA HD",|PL| CANAL+ SPORT5
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3189
+#EXTINF:-1 tvg-id="Sportklub" tvg-name="|PL| SPORT KLUB HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/SPORTKLUBHD.png" group-title="EU| POLSKA HD",|PL| SPORT KLUB HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3188
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="|PL| EUROSPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EUROSPORT1.png" group-title="EU| POLSKA HD",|PL| EUROSPORT 1 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3187
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="|PL| EUROSPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EUROSPORT2.png" group-title="EU| POLSKA HD",|PL| EUROSPORT 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3186
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="|PL| POLSAT SPORT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTHD.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3185
+#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="|PL| EXTREME SPORTS HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/EXTREMESPORTSHD.png" group-title="EU| POLSKA HD",|PL| EXTREME SPORTS HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3184
+#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="|PL| POLSAT SPORT NEWS HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTNEWS.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT NEWS HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3168
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="|PL| POLSAT SPORT PREM. 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM1.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT PREM. 1 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3183
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="|PL| POLSAT SPORT PREM. 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM2.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT PREM. 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3182
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM3.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT PREM. 3 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3181
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM3.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT PREM. 4 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3180
+#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="|PL| POLSAT SPORT PREM. 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM5.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT PREM. 5 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3179
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="|PL| POLSAT SPORT PREM. 6 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATSPORTPREM6.png" group-title="EU| POLSKA HD",|PL| POLSAT SPORT PREM. 6 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3178
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="|PL| ELEVENSPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS.png" group-title="EU| POLSKA HD",|PL| ELEVENSPORT 1 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3177
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="|PL| ELEVENSPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS2.png" group-title="EU| POLSKA HD",|PL| ELEVENSPORT 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3176
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="|PL| ELEVENSPORT 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS3.png" group-title="EU| POLSKA HD",|PL| ELEVENSPORT 3 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3175
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="|PL| ELEVENSPORT 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/ELEVENSPORTS4.png" group-title="EU| POLSKA HD",|PL| ELEVENSPORT 4 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3174
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 1 Liga KANAŁ 1" tvg-logo="" group-title="EU| POLSKA HD",|PL| 1 Liga KANAŁ 1
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574426
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 1 Liga KANAŁ 2" tvg-logo="" group-title="EU| POLSKA HD",|PL| 1 Liga KANAŁ 2
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574425
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 1 Liga KANAŁ 3" tvg-logo="" group-title="EU| POLSKA HD",|PL| 1 Liga KANAŁ 3
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574424
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 2 Liga KANAŁ 1" tvg-logo="" group-title="EU| POLSKA HD",|PL| 2 Liga KANAŁ 1
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574423
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 2 Liga KANAŁ 2" tvg-logo="" group-title="EU| POLSKA HD",|PL| 2 Liga KANAŁ 2
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574422
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 2 Liga KANAŁ 3" tvg-logo="" group-title="EU| POLSKA HD",|PL| 2 Liga KANAŁ 3
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574421
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 2 Liga KANAŁ 4" tvg-logo="" group-title="EU| POLSKA HD",|PL| 2 Liga KANAŁ 4
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574420
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 2 Liga KANAŁ 5" tvg-logo="" group-title="EU| POLSKA HD",|PL| 2 Liga KANAŁ 5
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574419
+#EXTINF:-1 tvg-id="" tvg-name="|PL| 2 Liga KANAŁ 6" tvg-logo="" group-title="EU| POLSKA HD",|PL| 2 Liga KANAŁ 6
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/574418
+#EXTINF:-1 tvg-id="golfchannel.pl" tvg-name="|PL| GOLF CHANNEL" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/GOLFCHANNEL.png" group-title="EU| POLSKA HD",|PL| GOLF CHANNEL
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3173
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="|PL| FIGHTBOX HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FIGHTBOXHD.png" group-title="EU| POLSKA HD",|PL| FIGHTBOX HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3172
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="|PL| FIGHTKLUB HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FIGHTKLUBHD.png" group-title="EU| POLSKA HD",|PL| FIGHTKLUB HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3171
+#EXTINF:-1 tvg-id="KSW TV" tvg-name="|PL| PPV KSW FIGHTS KICK BOXING – Glory 89 " tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/PPVKSWFIGHTS.png" group-title="EU| POLSKA HD",|PL| PPV KSW FIGHTS KICK BOXING – Glory 89 
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3170
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PPV  |The War 4|" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="EU| POLSKA HD",|PL| PPV  |The War 4|
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/436488
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PPV 2" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="EU| POLSKA HD",|PL| PPV 2
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/436531
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="|PL| TVP SPORT HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPSPORT.png" group-title="EU| POLSKA HD",|PL| TVP SPORT HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3169
+#EXTINF:-1 tvg-id="" tvg-name="|PL| UFC Fight Night" tvg-logo="http://178.211.143.40:81/logos/USASPORT/UFCCHANNEL.png" group-title="PL| EVENTS VIP",|PL| UFC Fight Night
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464127
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PlayLive PPV Platform EVENT" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| PlayLive PPV Platform EVENT
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/490070
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PPV HIGH LEAGUE" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| PPV HIGH LEAGUE
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/490069
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PPV GROMDA" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| PPV GROMDA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/490068
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Polsat GO PPV" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| Polsat GO PPV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464133
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Fame MMA" tvg-logo="http://103.161.34.240:81/logos/POLSKA/FameMMA.png" group-title="PL| EVENTS VIP",|PL| Fame MMA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464132
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Prime MMA" tvg-logo="http://103.161.34.240:81/logos/POLSKA/PrimeMMA.png" group-title="PL| EVENTS VIP",|PL| Prime MMA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464131
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PlayLive PPV Platform" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| PlayLive PPV Platform
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464130
+#EXTINF:-1 tvg-id="" tvg-name="|PL| PPV Stream" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| PPV Stream
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464129
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIPmedia PPV | KUP PPV" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="PL| EVENTS VIP",|PL| VIPmedia PPV | KUP PPV
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/464128
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="|PL| TVN 24 HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN24HD.png" group-title="EU| POLSKA HD",|PL| TVN 24 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3166
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="|PL| TVN24 BIS HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVN24BISHD.png" group-title="EU| POLSKA HD",|PL| TVN24 BIS HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3165
+#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="|PL| POLSAT NEWS HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATNEWSHD.png" group-title="EU| POLSKA HD",|PL| POLSAT NEWS HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3164
+#EXTINF:-1 tvg-id="polsatnews2.pl" tvg-name="|PL| POLSAT NEWS 2" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/POLSATNEWS2.png" group-title="EU| POLSKA HD",|PL| POLSAT NEWS 2
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3163
+#EXTINF:-1 tvg-id="TV Republika" tvg-name="|PL| TV REPUBLIKA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVREPUBLIKA.png" group-title="EU| POLSKA HD",|PL| TV REPUBLIKA
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3161
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="|PL| WPOLSCE.PL" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/WPOLSCEPL.png" group-title="EU| POLSKA HD",|PL| WPOLSCE.PL
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3160
+#EXTINF:-1 tvg-id="tvpinfo.pl" tvg-name="|PL| TVP INFO HD" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/TVPINFOHD.png" group-title="EU| POLSKA HD",|PL| TVP INFO HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/3158
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 1 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 1 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509057
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 2 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 2 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509056
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 3 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 3 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509055
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 4 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 4 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509054
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 5 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 5 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509053
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 6 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 6 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509052
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 7 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 7 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509051
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 8 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 8 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509050
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 9 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 9 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509049
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 10 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 10 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509048
+#EXTINF:-1 tvg-id="" tvg-name="|PL|VIAPLAY XTRA 11 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL|VIAPLAY XTRA 11 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509047
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 12 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 12 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509046
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 13 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 13 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509045
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 14 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 14 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509044
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 15 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 15 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509043
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 16 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 16 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509042
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 17 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 17 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509041
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 18 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 18 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509040
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 19 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 19 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509039
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 20 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 20 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509038
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 21 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 21 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509037
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 22 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 22 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509036
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 23 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 23 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509035
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 25 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 25 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509034
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 26 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 26 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509033
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 40 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 40 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509032
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 44 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 44 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509031
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 48 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 48 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509030
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 49 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 49 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509028
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 50 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 50 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509026
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 63 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 63 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509025
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 64 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 64 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509024
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 65 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 65 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509022
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 66 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 66 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509021
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 67 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 67 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509020
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 68 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 68 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509019
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 69 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 69 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509017
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 70 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 70 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509016
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 71 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 71 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509015
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 72 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 72 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509013
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 73 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 73 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509012
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 74 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 74 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509011
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 75 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 75 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509010
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 76 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 76 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509008
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 77 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 77 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509007
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 78 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 78 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509006
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 79 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 79 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509004
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 80 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 80 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509003
+#EXTINF:-1 tvg-id="" tvg-name="|PL| VIAPLAY XTRA 81 HD" tvg-logo="" group-title="PL| VIAPLAY",|PL| VIAPLAY XTRA 81 HD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/509002
+#EXTINF:-1 tvg-id="" tvg-name="|PL| POP KIDS PAW PATROL" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="EU| POLSKA HD",|PL| POP KIDS PAW PATROL
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/444149
+
+
+#EXTINF:-1 tvg-id="bbconechannelislands.uk" tvg-name="|UK| BBC ONE CHANNEL ISLANDS SD" tvg-logo="http://logo.ottc.pro:8080/logos/UKGENERAL/BBC1.png" group-title="UK| GENERAL",|UK| BBC ONE CHANNEL ISLANDS SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/11793
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="|UK| CHANNEL 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos/UKGENERAL/CHANNEL5.png" group-title="UK| GENERAL",|UK| CHANNEL 5 SD
+http://iqtvplus.com:80/SKNLVAXZZZ/L8SSWAGKHT/11816
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 1 HD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4899
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="|UK| TNT SPORTS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 2 HD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4898
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="|UK| TNT SPORTS 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 3 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4897
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="|UK| TNT SPORTS 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS4.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 4 HD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4900
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 5 HD (Event Only)" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS5.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 5 HD (Event Only)
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442307
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 6 HD (Event Only) " tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS6.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 6 HD (Event Only) 
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442306
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 7 HD (Event Only) " tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS7.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 7 HD (Event Only) 
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442305
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 8 HD (Event Only)" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS8.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 8 HD (Event Only)
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442304
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 9 HD (Event Only)" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS9.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 9 HD (Event Only)
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442303
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 10 HD (Event Only) " tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS10.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 10 HD (Event Only) 
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442302
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="|UK| TNT SPORTS 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 1 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4793
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="|UK| TNT SPORT 1 50FPS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="UK| TNT SPORTS",|UK| TNT SPORT 1 50FPS 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/440078
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 2 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4792
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORT 2 50FPS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="UK| TNT SPORTS",|UK| TNT SPORT 2 50FPS 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/440077
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="|UK| TNT SPORTS 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 3 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4791
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORT 3 50FPS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="UK| TNT SPORTS",|UK| TNT SPORT 3 50FPS 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/440076
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="|UK| TNT SPORTS 4 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS4.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 4 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4794
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORT 4 50FPS 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS4.png" group-title="UK| TNT SPORTS",|UK| TNT SPORT 4 50FPS 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/440075
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="|UK| TNT SPORTS 5 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS5.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 5 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4781
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="|UK| TNT SPORTS 6 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS6.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 6 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4780
+#EXTINF:-1 tvg-id="btsportx6.uk" tvg-name="|UK| TNT SPORTS EXTRA 6 4K" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTSEXRTA6.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS EXTRA 6 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4776
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="|UK| TNT SPORTS 7 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS7.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 7 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4779
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="|UK| TNT SPORTS 8 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS8.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 8 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4778
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="|UK| TNT SPORTS 9 4K" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS9.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 9 4K
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/4777
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="|UK| TNT SPORTS ESPN SD" tvg-logo="http://logo.ottc.pro:8080/logos/NEDERLAND/ESPN.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS ESPN SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/11607
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS MOSAIC SD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTSMOSAIC.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS MOSAIC SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/11603
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 1 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/11606
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="|UK| TNT SPORTS 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 2 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/11605
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="|UK| TNT SPORTS 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 3 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/11604
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 4 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS4.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 4 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442298
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 5 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS5.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 5 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442297
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 6 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS6.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 6 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442296
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 7 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS7.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 7 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442295
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 8 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS8.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 8 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442294
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 9 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS9.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 9 SD
+http://iqtvplus.com:80/I8PIQDJYIT/JTHDBVT4JM/442293
+#EXTINF:-1 tvg-id="" tvg-name="|UK| TNT SPORTS 10 SD" tvg-logo="http://logo.crystalott.net:8080/logos/UK-SPORTS/BTSPORTS10.png" group-title="UK| TNT SPORTS",|UK| TNT SPORTS 10 SD
