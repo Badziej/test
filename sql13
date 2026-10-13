@@ -1,0 +1,68 @@
+-- Copy within the same Dashboard DB; set both InternalAccountId values below.
+-- Adds new copies; preserves shared account-0 rules and all other field values.
+DECLARE @SourceAccount INT = 0, @TargetAccount INT = 1;
+SET NOCOUNT ON;
+SET XACT_ABORT ON;
+ 
+IF @SourceAccount IS NULL OR @TargetAccount IS NULL THROW 50001, 'Set both account IDs.', 1;
+IF @SourceAccount = @TargetAccount THROW 50002, 'Account IDs must be different.', 1;
+IF @@TRANCOUNT <> 0 THROW 50004, 'Run without an existing transaction.', 1;
+IF @SourceAccount <> 0 AND NOT EXISTS (SELECT 1 FROM dbo.BG_ACCOUNTS WHERE InternalAccountId = @SourceAccount)
+    THROW 50005, 'Source account does not exist.', 1;
+IF NOT EXISTS (SELECT 1 FROM dbo.BG_ACCOUNTS WHERE InternalAccountId = @TargetAccount)
+    THROW 50006, 'Target account does not exist.', 1;
+ 
+DECLARE @Rules TABLE (OldId INT PRIMARY KEY, NewId INT);
+DECLARE @Policies TABLE (OldId INT PRIMARY KEY, NewId INT);
+ 
+BEGIN TRY
+    BEGIN TRANSACTION;
+    INSERT INTO @Rules SELECT RuleId, RuleId FROM dbo.BG_GOVERNANCE_RULE_LIST WITH (HOLDLOCK)
+    WHERE InternalAccountId = 0 AND @SourceAccount <> 0;
+ 
+    -- MERGE OUTPUT captures the original ID together with the new identity ID.
+    MERGE dbo.BG_GOVERNANCE_RULE_LIST AS t
+    USING (SELECT * FROM dbo.BG_GOVERNANCE_RULE_LIST WITH (HOLDLOCK) WHERE InternalAccountId = @SourceAccount) AS s
+    ON 1 = 0
+    WHEN NOT MATCHED THEN INSERT
+        (InternalAccountId, RuleName, RuleDescription, RulePurpose, RuleType, RuleCategory,
+         RuleValue, RuleScope, SensitivityLevel, Enabled, CreatedBy, CreatedTime,
+         LastUpdatedBy, LastUpdatedTime, DefaultRule, IsLiveProject, AIValueScore, AIRiskLevel, TimeSavedMinutes)
+    VALUES
+        (@TargetAccount, s.RuleName, s.RuleDescription, s.RulePurpose, s.RuleType, s.RuleCategory,
+         s.RuleValue, s.RuleScope, s.SensitivityLevel, s.Enabled, s.CreatedBy, s.CreatedTime,
+         s.LastUpdatedBy, s.LastUpdatedTime, s.DefaultRule, s.IsLiveProject, s.AIValueScore, s.AIRiskLevel, s.TimeSavedMinutes)
+    OUTPUT s.RuleId, inserted.RuleId INTO @Rules;
+ 
+    MERGE dbo.BG_GOVERNANCE_POLICY_LIST AS t
+    USING (SELECT * FROM dbo.BG_GOVERNANCE_POLICY_LIST WITH (HOLDLOCK) WHERE InternalAccountId = @SourceAccount) AS s
+    ON 1 = 0
+    WHEN NOT MATCHED THEN INSERT
+        (InternalAccountId, [Order], PolicyName, PolicyDescription, PolicyRisk, [Action], AllowBlockOverride,
+         ScopeType, ScopeValue, AccessType, Enabled, CreatedBy, CreatedTime, LastUpdatedBy, LastUpdatedTime,
+         ApplyToPragatixChat, ModelIds, AIServices, AIAgents, Platforms, CompanyAccount, PolicyType, MatchType,
+         ApplyToAllFileUploads, FileTypes, MinFileSizeKB, MaxFileSizeKB, MinPromptSizeKB, MaxPromptSizeKB, ContentFilterMatchType)
+    VALUES
+        (@TargetAccount, s.[Order], s.PolicyName, s.PolicyDescription, s.PolicyRisk, s.[Action], s.AllowBlockOverride,
+         s.ScopeType, s.ScopeValue, s.AccessType, s.Enabled, s.CreatedBy, s.CreatedTime, s.LastUpdatedBy, s.LastUpdatedTime,
+         s.ApplyToPragatixChat, s.ModelIds, s.AIServices, s.AIAgents, s.Platforms, s.CompanyAccount, s.PolicyType, s.MatchType,
+         s.ApplyToAllFileUploads, s.FileTypes, s.MinFileSizeKB, s.MaxFileSizeKB, s.MinPromptSizeKB, s.MaxPromptSizeKB, s.ContentFilterMatchType)
+    OUTPUT s.PolicyId, inserted.PolicyId INTO @Policies;
+ 
+    IF EXISTS (SELECT 1 FROM dbo.BG_GOVERNANCE_POLICY_RULES AS m WITH (HOLDLOCK)
+               JOIN @Policies AS p ON p.OldId = m.PolicyId
+               LEFT JOIN @Rules AS r ON r.OldId = m.RuleId WHERE r.OldId IS NULL)
+        THROW 50007, 'A policy references a missing rule or another account''s rule.', 1;
+ 
+    INSERT INTO dbo.BG_GOVERNANCE_POLICY_RULES (PolicyId, RuleId)
+    SELECT DISTINCT p.NewId, r.NewId
+    FROM dbo.BG_GOVERNANCE_POLICY_RULES AS m WITH (HOLDLOCK)
+    JOIN @Policies AS p ON p.OldId = m.PolicyId
+    JOIN @Rules AS r ON r.OldId = m.RuleId;
+ 
+    COMMIT TRANSACTION;
+END TRY
+BEGIN CATCH
+    IF XACT_STATE() <> 0 ROLLBACK TRANSACTION;
+    THROW;
+END CATCH;
